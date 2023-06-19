@@ -1,4 +1,4 @@
-# HuffmanAlgorithm
+# Huffman Algorithm
 Group project that I ended up doing most of the work for
 
 The idea of the python script is to be able to encode and decode a string into a series of 1's and 0's using a separate data file.
